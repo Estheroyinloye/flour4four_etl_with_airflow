@@ -15,352 +15,49 @@
 13,BIZ-1033,Frazier Inc,Bakery,"Herbert Macaulay Way, Abuja",Baba Kwame,8012614124
 14,BIZ-1007,"Henderson, Ramirez and Lewis",Fast Food,"Ahmadu Bello Way, Abuja",Lemuel Nnamani,8055176955
 15,BIZ-1054,Jones Inc,Bakery,"Ahmadu Bello Way, Abuja",Ndidi Bakari,8075181648
-16,BIZ-1039,"Romero, Gonzalez and Brooks",Fast Food,"Garki Area 1, Abuja",Mojisola Seko,8060119651
-17,BIZ-1034,"Dyer, Potter and Mack",Bakery,"Garki Area 1, Abuja",Tumelo Otieno,8017774584
-18,BIZ-1038,Harrell LLC,Cafe,"Ahmadu Bello Way, Abuja",Morenike Mbadiwe,8036998038
-19,BIZ-1057,"Johnston, Sanchez and Kennedy",Fast Food,"Garki Area 1, Abuja",Bolanle Amin,8084593961
-20,BIZ-1048,Hickman Ltd,Cafe,"Garki Area 1, Abuja",Ngozi Amin,8017270733
-21,BIZ-1009,Unknown,Fast Food,"Herbert Macaulay Way, Abuja",Dada Abdoulaye,8071662963
-22,BIZ-1010,Unknown,Bakery,"Garki Area 1, Abuja",Mandela Chiluba,8049349722
-23,BIZ-1005,"Gardner, Robinson and Lawrence",Cafe,"Ahmadu Bello Way, Abuja",Abena Obasanjo,8047338124
-24,BIZ-1029,"Snyder, Campos and Callahan",Fast Food,"Herbert Macaulay Way, Abuja",Odion Banda,8049392920
-25,BIZ-1009,Abbott-Munoz,Unknown,"Herbert Macaulay Way, Abuja",Dada Abdoulaye,8071662963
-26,BIZ-1061,Powell LLC,Restaurant,"Ahmadu Bello Way, Abuja",Aisha Onyango,8034941004
-27,BIZ-1060,"Brown, Valdez and Lucas",Fast Food,"Ahmadu Bello Way, Abuja",Ngugi Mugabe,8073993471
-28,BIZ-1045,Spence PLC,Unknown,Unknown,Morenike Kaboré,8086644106
-29,BIZ-1034,"Dyer, Potter and Mack",Unknown,"Garki Area 1, Abuja",Tumelo Otieno,8017774584
-30,BIZ-1011,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Abdul Cissé,8019335534
-31,BIZ-1055,Jones-Young,Cafe,Unknown,Chinwe Oluoch,8032097220
-32,BIZ-1055,Jones-Young,Cafe,"Ahmadu Bello Way, Abuja",Chinwe Oluoch,8032097220
-33,BIZ-1046,Anderson Group,Cafe,"Ahmadu Bello Way, Abuja",Ifunanya Bakari,8035556386
-34,BIZ-1013,"Mcclure, Ward and Lee",Bakery,"Ahmadu Bello Way, Abuja",Aziz Eze,8047308985
-35,BIZ-1042,Rodriguez LLC,Restaurant,"Herbert Macaulay Way, Abuja",Yemi Osei,8019528530
-36,BIZ-1017,"Flowers, Martin and Kelly",Restaurant,"Ahmadu Bello Way, Abuja",Jamila Eze,8046231783
-37,BIZ-1014,Williams and Sons,Cafe,"Herbert Macaulay Way, Abuja",Gimba Moyo,8059684848
-38,BIZ-1045,Spence PLC,Cafe,"Ahmadu Bello Way, Abuja",Morenike Kaboré,8086644106
-39,BIZ-1012,Arnold Ltd,Unknown,"Herbert Macaulay Way, Abuja",Masamba Agbaje,8048840994
-40,BIZ-1019,"Reid, Ferguson and Sanchez",Restaurant,"Ahmadu Bello Way, Abuja",Kunle Ali,8045935572
-41,BIZ-1053,"Robinson, Jones and Welch",Bakery,"Ahmadu Bello Way, Abuja",Temidayo Annan,8011980765
-42,BIZ-1022,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Dada Kouyaté,8043101783
-43,BIZ-1016,James Group,Unknown,"Herbert Macaulay Way, Abuja",Adesuwa Chiume,8081691040
-44,BIZ-1057,"Johnston, Sanchez and Kennedy",Fast Food,Unknown,Bolanle Amin,8084593961
-45,BIZ-1056,"Washington, Ryan and Cummings",Cafe,"Ahmadu Bello Way, Abuja",Obinna Simba,8071070189
-46,BIZ-1036,Smith-Bowen,Bakery,"Herbert Macaulay Way, Abuja",Onyeka Kaboré,8027232410
-47,BIZ-1008,Garcia-James,Bakery,"Ahmadu Bello Way, Abuja",Chinonso Achebe,8058181396
-48,BIZ-1030,Burton Ltd,Cafe,"Ahmadu Bello Way, Abuja",Chimamanda Osei,8045351479
-49,BIZ-1003,Davis and Sons,Bakery,"Ahmadu Bello Way, Abuja",Zane Adom,8090801586
-50,BIZ-1044,"Arroyo, Miller and Tucker",Bakery,Unknown,Chidike Jalloh,8099788677
-51,BIZ-1059,Gomez-Jenkins,Bakery,"Herbert Macaulay Way, Abuja",Adaeze Annan,8018181586
-52,BIZ-1058,Lee-Davis,Cafe,Unknown,Chukwuemeka Idowu,8039219319
-53,BIZ-1051,Walker LLC,Cafe,"Ahmadu Bello Way, Abuja",Asha Kamara,8047385696
-54,BIZ-1041,George Group,Restaurant,"Ahmadu Bello Way, Abuja",Ofa Mwangi,8088961459
-55,BIZ-1026,Baker and Sons,Restaurant,"Herbert Macaulay Way, Abuja",Tariq Biya,8066661351
-56,BIZ-1040,Ryan PLC,Cafe,Unknown,Ayodele Chilufya,8043273328
-57,BIZ-1016,James Group,Bakery,Unknown,Adesuwa Chiume,8081691040
-58,BIZ-1058,Lee-Davis,Cafe,"Ahmadu Bello Way, Abuja",Chukwuemeka Idowu,8039219319
-59,BIZ-1016,James Group,Bakery,"Herbert Macaulay Way, Abuja",Adesuwa Chiume,8081691040
-60,BIZ-1011,Dudley Group,Fast Food,"Herbert Macaulay Way, Abuja",Abdul Cissé,8019335534
-61,BIZ-1013,"Mcclure, Ward and Lee",Unknown,"Ahmadu Bello Way, Abuja",Aziz Eze,8047308985
-62,BIZ-1024,"Walter, Edwards and Rios",Cafe,"Garki Area 1, Abuja",Yemi Kouyaté,8078387461
-63,BIZ-1020,Gray-Mayo,Bakery,"Ahmadu Bello Way, Abuja",Eniola Touré,8052235350
-64,BIZ-1002,"Mcclain, Miller and Henderson",Bakery,"Herbert Macaulay Way, Abuja",Asha Okeke,8013999315
-65,BIZ-1011,Dudley Group,Unknown,"Herbert Macaulay Way, Abuja",Abdul Cissé,8019335534
-66,BIZ-1009,Abbott-Munoz,Fast Food,"Herbert Macaulay Way, Abuja",Dada Abdoulaye,8071662963
-67,BIZ-1028,"Ross, Robinson and Bright",Fast Food,"Herbert Macaulay Way, Abuja",Musa Biya,8025374874
-68,BIZ-1008,Garcia-James,Unknown,Unknown,Chinonso Achebe,8058181396
-69,BIZ-1023,Morales-Jones,Fast Food,Unknown,Yemisi Kalumba,8088320463
-70,BIZ-1027,"Hoffman, Baker and Richards",Unknown,"Garki Area 1, Abuja",Chinonso Museveni,8072820592
-71,BIZ-1019,"Reid, Ferguson and Sanchez",Restaurant,Unknown,Kunle Ali,8045935572
-72,BIZ-1036,Smith-Bowen,Unknown,"Herbert Macaulay Way, Abuja",Onyeka Kaboré,8027232410
-73,BIZ-1054,Jones Inc,Bakery,Unknown,Ndidi Bakari,8075181648
-74,BIZ-1014,Williams and Sons,Unknown,"Herbert Macaulay Way, Abuja",Gimba Moyo,8059684848
-75,BIZ-1053,"Robinson, Jones and Welch",Bakery,Unknown,Temidayo Annan,8011980765
-76,BIZ-1031,Carlson-Cruz,Restaurant,"Herbert Macaulay Way, Abuja",Diallo Mills,8050056581
-77,BIZ-1012,Arnold Ltd,Bakery,"Herbert Macaulay Way, Abuja",Masamba Agbaje,8048840994
-78,BIZ-1043,Allen-Allen,Bakery,"Ahmadu Bello Way, Abuja",Bakari Okeke,8054349361
-79,BIZ-1058,Unknown,Cafe,Unknown,Chukwuemeka Idowu,8039219319
-80,BIZ-1027,"Hoffman, Baker and Richards",Bakery,"Garki Area 1, Abuja",Chinonso Museveni,8072820592
-81,BIZ-1012,Unknown,Bakery,"Herbert Macaulay Way, Abuja",Masamba Agbaje,8048840994
-82,BIZ-1051,Walker LLC,Unknown,"Ahmadu Bello Way, Abuja",Asha Kamara,8047385696
-83,BIZ-1055,Jones-Young,Unknown,"Ahmadu Bello Way, Abuja",Chinwe Oluoch,8032097220
-84,BIZ-1010,Blair PLC,Bakery,Unknown,Mandela Chiluba,8049349722
-85,BIZ-1006,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Bolanle Kalumba,8055667651
-86,BIZ-1017,"Flowers, Martin and Kelly",Restaurant,Unknown,Jamila Eze,8046231783
-87,BIZ-1015,Galloway-Wyatt,Unknown,"Ahmadu Bello Way, Abuja",Mojisola Olamide,8096977837
-88,BIZ-1053,"Robinson, Jones and Welch",Unknown,"Ahmadu Bello Way, Abuja",Temidayo Annan,8011980765
-89,BIZ-1035,Unknown,Restaurant,"Herbert Macaulay Way, Abuja",Mandela Onyango,8075228535
-90,BIZ-1003,Davis and Sons,Unknown,Unknown,Zane Adom,8090801586
-91,BIZ-1040,Ryan PLC,Unknown,"Herbert Macaulay Way, Abuja",Ayodele Chilufya,8043273328
-92,BIZ-1000,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Ijeoma Jalloh,8042868828
-93,BIZ-1060,"Brown, Valdez and Lucas",Unknown,"Ahmadu Bello Way, Abuja",Ngugi Mugabe,8073993471
-94,BIZ-1050,"Brooks, Lam and Hayes",Bakery,"Ahmadu Bello Way, Abuja",Abdul Bello,8081979055
-95,BIZ-1042,Rodriguez LLC,Restaurant,Unknown,Yemi Osei,8019528530
-96,BIZ-1038,Harrell LLC,Unknown,"Ahmadu Bello Way, Abuja",Morenike Mbadiwe,8036998038
-97,BIZ-1006,Blake and Sons,Unknown,"Ahmadu Bello Way, Abuja",Bolanle Kalumba,8055667651
-98,BIZ-1017,"Flowers, Martin and Kelly",Unknown,Unknown,Jamila Eze,8046231783
-99,BIZ-1033,Frazier Inc,Unknown,"Herbert Macaulay Way, Abuja",Baba Kwame,8012614124
-100,BIZ-1027,Unknown,Bakery,"Garki Area 1, Abuja",Chinonso Museveni,8072820592
-101,BIZ-1044,"Arroyo, Miller and Tucker",Bakery,"Herbert Macaulay Way, Abuja",Chidike Jalloh,8099788677
-102,BIZ-1024,Unknown,Cafe,Unknown,Yemi Kouyaté,8078387461
-103,BIZ-1052,Chapman and Sons,Unknown,"Ahmadu Bello Way, Abuja",Hassan Nyoni,8083863413
-104,BIZ-1030,Burton Ltd,Cafe,Unknown,Chimamanda Osei,8045351479
-105,BIZ-1005,"Gardner, Robinson and Lawrence",Unknown,Unknown,Abena Obasanjo,8047338124
-106,BIZ-1045,Spence PLC,Cafe,Unknown,Morenike Kaboré,8086644106
-107,BIZ-1030,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Chimamanda Osei,8045351479
-108,BIZ-1047,"Martin, Rose and Obrien",Bakery,"Ahmadu Bello Way, Abuja",Oyin Mulenga,8057553014
-109,BIZ-1016,Unknown,Bakery,"Herbert Macaulay Way, Abuja",Adesuwa Chiume,8081691040
-110,BIZ-1010,Blair PLC,Bakery,"Garki Area 1, Abuja",Mandela Chiluba,8049349722
-111,BIZ-1047,"Martin, Rose and Obrien",Bakery,Unknown,Oyin Mulenga,8057553014
-112,BIZ-1049,"Harris, Collins and Carney",Bakery,"Ahmadu Bello Way, Abuja",Ama Amin,8055540424
-113,BIZ-1022,Perez Inc,Cafe,"Ahmadu Bello Way, Abuja",Dada Kouyaté,8043101783
-114,BIZ-1056,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Obinna Simba,8071070189
-115,BIZ-1030,Burton Ltd,Unknown,"Ahmadu Bello Way, Abuja",Chimamanda Osei,8045351479
-116,BIZ-1050,"Brooks, Lam and Hayes",Unknown,"Ahmadu Bello Way, Abuja",Abdul Bello,8081979055
-117,BIZ-1049,Unknown,Bakery,Unknown,Ama Amin,8055540424
-118,BIZ-1017,"Flowers, Martin and Kelly",Unknown,"Ahmadu Bello Way, Abuja",Jamila Eze,8046231783
-119,BIZ-1029,"Snyder, Campos and Callahan",Fast Food,Unknown,Odion Banda,8049392920
-120,BIZ-1000,"Rodriguez, Figueroa and Sanchez",Bakery,"Ahmadu Bello Way, Abuja",Ijeoma Jalloh,8042868828
-121,BIZ-1049,"Harris, Collins and Carney",Bakery,Unknown,Ama Amin,8055540424
-122,BIZ-1056,"Washington, Ryan and Cummings",Cafe,Unknown,Obinna Simba,8071070189
-123,BIZ-1004,Unknown,Bakery,"Herbert Macaulay Way, Abuja",Osman Touré,8097226012
-124,BIZ-1026,Baker and Sons,Unknown,"Herbert Macaulay Way, Abuja",Tariq Biya,8066661351
-125,BIZ-1025,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Chioma Mensah,8024716857
-126,BIZ-1046,Anderson Group,Cafe,Unknown,Ifunanya Bakari,8035556386
-127,BIZ-1039,"Romero, Gonzalez and Brooks",Unknown,Unknown,Mojisola Seko,8060119651
-128,BIZ-1004,"Guzman, Hoffman and Baldwin",Bakery,Unknown,Osman Touré,8097226012
-129,BIZ-1043,Allen-Allen,Unknown,"Ahmadu Bello Way, Abuja",Bakari Okeke,8054349361
-130,BIZ-1015,Galloway-Wyatt,Fast Food,Unknown,Mojisola Olamide,8096977837
-131,BIZ-1055,Jones-Young,Unknown,Unknown,Chinwe Oluoch,8032097220
-132,BIZ-1000,"Rodriguez, Figueroa and Sanchez",Bakery,Unknown,Ijeoma Jalloh,8042868828
-133,BIZ-1044,Unknown,Bakery,"Herbert Macaulay Way, Abuja",Chidike Jalloh,8099788677
-134,BIZ-1059,Gomez-Jenkins,Unknown,"Herbert Macaulay Way, Abuja",Adaeze Annan,8018181586
-135,BIZ-1003,Davis and Sons,Bakery,Unknown,Zane Adom,8090801586
-136,BIZ-1049,"Harris, Collins and Carney",Unknown,"Ahmadu Bello Way, Abuja",Ama Amin,8055540424
-137,BIZ-1021,Unknown,Restaurant,"Herbert Macaulay Way, Abuja",Chiamaka Egbue,8096282117
-138,BIZ-1040,Ryan PLC,Cafe,"Herbert Macaulay Way, Abuja",Ayodele Chilufya,8043273328
-139,BIZ-1033,Unknown,Bakery,Unknown,Baba Kwame,8012614124
-140,BIZ-1038,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Morenike Mbadiwe,8036998038
-141,BIZ-1001,Doyle Ltd,Restaurant,Unknown,Adaeze Fofana,8083197857
-142,BIZ-1028,Unknown,Fast Food,"Herbert Macaulay Way, Abuja",Musa Biya,8025374874
-143,BIZ-1042,Unknown,Restaurant,Unknown,Yemi Osei,8019528530
-144,BIZ-1022,Perez Inc,Unknown,"Ahmadu Bello Way, Abuja",Dada Kouyaté,8043101783
-145,BIZ-1007,"Henderson, Ramirez and Lewis",Unknown,"Ahmadu Bello Way, Abuja",Lemuel Nnamani,8055176955
-146,BIZ-1018,"Adams, Zuniga and Wong",Restaurant,Unknown,Elimu Agbaje,8017507864
-147,BIZ-1033,Unknown,Bakery,"Herbert Macaulay Way, Abuja",Baba Kwame,8012614124
-148,BIZ-1027,"Hoffman, Baker and Richards",Bakery,Unknown,Chinonso Museveni,8072820592
-149,BIZ-1001,Unknown,Restaurant,Unknown,Adaeze Fofana,8083197857
-150,BIZ-1058,Lee-Davis,Unknown,"Ahmadu Bello Way, Abuja",Chukwuemeka Idowu,8039219319
-151,BIZ-1004,"Guzman, Hoffman and Baldwin",Unknown,"Herbert Macaulay Way, Abuja",Osman Touré,8097226012
-152,BIZ-1036,Smith-Bowen,Bakery,Unknown,Onyeka Kaboré,8027232410
-153,BIZ-1008,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Chinonso Achebe,8058181396
-154,BIZ-1033,Frazier Inc,Bakery,Unknown,Baba Kwame,8012614124
-155,BIZ-1023,Morales-Jones,Unknown,"Herbert Macaulay Way, Abuja",Yemisi Kalumba,8088320463
-156,BIZ-1057,Unknown,Fast Food,"Garki Area 1, Abuja",Bolanle Amin,8084593961
-157,BIZ-1031,Unknown,Restaurant,"Herbert Macaulay Way, Abuja",Diallo Mills,8050056581
-158,BIZ-1017,Unknown,Restaurant,"Ahmadu Bello Way, Abuja",Jamila Eze,8046231783
-159,BIZ-1020,Gray-Mayo,Unknown,"Ahmadu Bello Way, Abuja",Eniola Touré,8052235350
-160,BIZ-1053,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Temidayo Annan,8011980765
-161,BIZ-1060,"Brown, Valdez and Lucas",Fast Food,Unknown,Ngugi Mugabe,8073993471
-162,BIZ-1061,Powell LLC,Restaurant,Unknown,Aisha Onyango,8034941004
-163,BIZ-1037,Unknown,Cafe,"Herbert Macaulay Way, Abuja",Ndidi Simba,8080823176
-164,BIZ-1032,Unknown,Restaurant,"Ahmadu Bello Way, Abuja",Leko Nnamani,8031682744
-165,BIZ-1013,"Mcclure, Ward and Lee",Bakery,Unknown,Aziz Eze,8047308985
-166,BIZ-1000,"Rodriguez, Figueroa and Sanchez",Unknown,"Ahmadu Bello Way, Abuja",Ijeoma Jalloh,8042868828
-167,BIZ-1051,Walker LLC,Cafe,Unknown,Asha Kamara,8047385696
-168,BIZ-1010,Blair PLC,Unknown,"Garki Area 1, Abuja",Mandela Chiluba,8049349722
-169,BIZ-1001,Doyle Ltd,Unknown,"Ahmadu Bello Way, Abuja",Adaeze Fofana,8083197857
-170,BIZ-1046,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Ifunanya Bakari,8035556386
-171,BIZ-1037,"Baker, Mason and White",Unknown,"Herbert Macaulay Way, Abuja",Ndidi Simba,8080823176
-172,BIZ-1031,Carlson-Cruz,Restaurant,Unknown,Diallo Mills,8050056581
-173,BIZ-1006,Blake and Sons,Bakery,Unknown,Bolanle Kalumba,8055667651
-174,BIZ-1001,Unknown,Restaurant,"Ahmadu Bello Way, Abuja",Adaeze Fofana,8083197857
-175,BIZ-1038,Harrell LLC,Cafe,Unknown,Morenike Mbadiwe,8036998038
-176,BIZ-1051,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Asha Kamara,8047385696
-177,BIZ-1056,"Washington, Ryan and Cummings",Unknown,"Ahmadu Bello Way, Abuja",Obinna Simba,8071070189
-178,BIZ-1041,Unknown,Restaurant,"Ahmadu Bello Way, Abuja",Ofa Mwangi,8088961459
-179,BIZ-1036,Unknown,Bakery,"Herbert Macaulay Way, Abuja",Onyeka Kaboré,8027232410
-180,BIZ-1050,"Brooks, Lam and Hayes",Unknown,Unknown,Abdul Bello,8081979055
-181,BIZ-1046,Anderson Group,Unknown,"Ahmadu Bello Way, Abuja",Ifunanya Bakari,8035556386
-182,BIZ-1028,"Ross, Robinson and Bright",Fast Food,Unknown,Musa Biya,8025374874
-183,BIZ-1021,"Watts, Robinson and Nguyen",Restaurant,Unknown,Chiamaka Egbue,8096282117
-184,BIZ-1029,"Snyder, Campos and Callahan",Unknown,Unknown,Odion Banda,8049392920
-185,BIZ-1020,Gray-Mayo,Bakery,Unknown,Eniola Touré,8052235350
-186,BIZ-1003,Davis and Sons,Unknown,"Ahmadu Bello Way, Abuja",Zane Adom,8090801586
-187,BIZ-1041,George Group,Unknown,"Ahmadu Bello Way, Abuja",Ofa Mwangi,8088961459
-188,BIZ-1044,"Arroyo, Miller and Tucker",Unknown,"Herbert Macaulay Way, Abuja",Chidike Jalloh,8099788677
-189,BIZ-1032,"Ferrell, Rice and Maddox",Unknown,"Ahmadu Bello Way, Abuja",Leko Nnamani,8031682744
-190,BIZ-1056,"Washington, Ryan and Cummings",Unknown,Unknown,Obinna Simba,8071070189
-191,BIZ-1038,Harrell LLC,Unknown,Unknown,Morenike Mbadiwe,8036998038
-192,BIZ-1024,"Walter, Edwards and Rios",Unknown,"Garki Area 1, Abuja",Yemi Kouyaté,8078387461
-193,BIZ-1005,"Gardner, Robinson and Lawrence",Cafe,Unknown,Abena Obasanjo,8047338124
-194,BIZ-1028,"Ross, Robinson and Bright",Unknown,Unknown,Musa Biya,8025374874
-195,BIZ-1039,"Romero, Gonzalez and Brooks",Fast Food,Unknown,Mojisola Seko,8060119651
-196,BIZ-1042,Unknown,Restaurant,"Herbert Macaulay Way, Abuja",Yemi Osei,8019528530
-197,BIZ-1035,Rodriguez-Graham,Restaurant,Unknown,Mandela Onyango,8075228535
-198,BIZ-1031,Carlson-Cruz,Unknown,"Herbert Macaulay Way, Abuja",Diallo Mills,8050056581
-199,BIZ-1015,Unknown,Fast Food,Unknown,Mojisola Olamide,8096977837
-200,BIZ-1028,"Ross, Robinson and Bright",Unknown,"Herbert Macaulay Way, Abuja",Musa Biya,8025374874
-201,BIZ-1042,Rodriguez LLC,Unknown,"Herbert Macaulay Way, Abuja",Yemi Osei,8019528530
-202,BIZ-1059,Gomez-Jenkins,Bakery,Unknown,Adaeze Annan,8018181586
-203,BIZ-1007,Unknown,Fast Food,"Ahmadu Bello Way, Abuja",Lemuel Nnamani,8055176955
-204,BIZ-1037,"Baker, Mason and White",Cafe,Unknown,Ndidi Simba,8080823176
-205,BIZ-1041,George Group,Restaurant,Unknown,Ofa Mwangi,8088961459
-206,BIZ-1012,Arnold Ltd,Bakery,Unknown,Masamba Agbaje,8048840994
-207,BIZ-1018,"Adams, Zuniga and Wong",Unknown,Unknown,Elimu Agbaje,8017507864
-208,BIZ-1050,"Brooks, Lam and Hayes",Bakery,Unknown,Abdul Bello,8081979055
-209,BIZ-1007,"Henderson, Ramirez and Lewis",Fast Food,Unknown,Lemuel Nnamani,8055176955
-210,BIZ-1061,Unknown,Restaurant,"Ahmadu Bello Way, Abuja",Aisha Onyango,8034941004
-211,BIZ-1021,"Watts, Robinson and Nguyen",Unknown,"Herbert Macaulay Way, Abuja",Chiamaka Egbue,8096282117
-212,BIZ-1023,Unknown,Fast Food,"Herbert Macaulay Way, Abuja",Yemisi Kalumba,8088320463
-213,BIZ-1026,Baker and Sons,Restaurant,Unknown,Tariq Biya,8066661351
-214,BIZ-1060,Unknown,Fast Food,"Ahmadu Bello Way, Abuja",Ngugi Mugabe,8073993471
-215,BIZ-1035,Rodriguez-Graham,Unknown,"Herbert Macaulay Way, Abuja",Mandela Onyango,8075228535
-216,BIZ-1059,Unknown,Bakery,"Herbert Macaulay Way, Abuja",Adaeze Annan,8018181586
-217,BIZ-1026,Unknown,Restaurant,"Herbert Macaulay Way, Abuja",Tariq Biya,8066661351
-218,BIZ-1024,"Walter, Edwards and Rios",Cafe,Unknown,Yemi Kouyaté,8078387461
-219,BIZ-1048,Hickman Ltd,Cafe,Unknown,Ngozi Amin,8017270733
-220,BIZ-1014,Williams and Sons,Unknown,Unknown,Gimba Moyo,8059684848
-221,BIZ-1052,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Hassan Nyoni,8083863413
-222,BIZ-1006,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Bolanle Kalumba,8055667651
-223,BIZ-1008,Garcia-James,Bakery,Unknown,Chinonso Achebe,8058181396
-224,BIZ-1019,"Reid, Ferguson and Sanchez",Unknown,Unknown,Kunle Ali,8045935572
-225,BIZ-1034,"Dyer, Potter and Mack",Bakery,Unknown,Tumelo Otieno,8017774584
-226,BIZ-1057,"Johnston, Sanchez and Kennedy",Unknown,"Garki Area 1, Abuja",Bolanle Amin,8084593961
-227,BIZ-1054,Jones Inc,Unknown,"Ahmadu Bello Way, Abuja",Ndidi Bakari,8075181648
-228,BIZ-1051,Walker LLC,Unknown,Unknown,Asha Kamara,8047385696
-229,BIZ-1051,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Asha Kamara,8047385696
-230,BIZ-1007,Unknown,Fast Food,Unknown,Lemuel Nnamani,8055176955
-231,BIZ-1040,Unknown,Cafe,"Herbert Macaulay Way, Abuja",Ayodele Chilufya,8043273328
-232,BIZ-1048,Hickman Ltd,Unknown,"Garki Area 1, Abuja",Ngozi Amin,8017270733
-233,BIZ-1048,Unknown,Cafe,"Garki Area 1, Abuja",Ngozi Amin,8017270733
-234,BIZ-1058,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Chukwuemeka Idowu,8039219319
-235,BIZ-1048,Unknown,Cafe,Unknown,Ngozi Amin,8017270733
-236,BIZ-1013,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Aziz Eze,8047308985
-237,BIZ-1047,"Martin, Rose and Obrien",Unknown,"Ahmadu Bello Way, Abuja",Oyin Mulenga,8057553014
-238,BIZ-1050,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Abdul Bello,8081979055
-239,BIZ-1045,Spence PLC,Unknown,"Ahmadu Bello Way, Abuja",Morenike Kaboré,8086644106
-240,BIZ-1052,Chapman and Sons,Unknown,Unknown,Hassan Nyoni,8083863413
-241,BIZ-1032,"Ferrell, Rice and Maddox",Restaurant,Unknown,Leko Nnamani,8031682744
-242,BIZ-1022,Perez Inc,Cafe,Unknown,Dada Kouyaté,8043101783
-243,BIZ-1043,Allen-Allen,Bakery,Unknown,Bakari Okeke,8054349361
-244,BIZ-1018,"Adams, Zuniga and Wong",Unknown,"Herbert Macaulay Way, Abuja",Elimu Agbaje,8017507864
-245,BIZ-1019,"Reid, Ferguson and Sanchez",Unknown,"Ahmadu Bello Way, Abuja",Kunle Ali,8045935572
-246,BIZ-1018,Unknown,Restaurant,"Herbert Macaulay Way, Abuja",Elimu Agbaje,8017507864
-247,BIZ-1058,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Chukwuemeka Idowu,8039219319
-248,BIZ-1002,"Mcclain, Miller and Henderson",Unknown,"Herbert Macaulay Way, Abuja",Asha Okeke,8013999315
-249,BIZ-1020,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Eniola Touré,8052235350
-250,BIZ-1027,"Hoffman, Baker and Richards",Unknown,Unknown,Chinonso Museveni,8072820592
-251,BIZ-1034,Unknown,Bakery,"Garki Area 1, Abuja",Tumelo Otieno,8017774584
-252,BIZ-1008,Garcia-James,Unknown,"Ahmadu Bello Way, Abuja",Chinonso Achebe,8058181396
-253,BIZ-1010,Unknown,Bakery,Unknown,Mandela Chiluba,8049349722
-254,BIZ-1021,"Watts, Robinson and Nguyen",Unknown,Unknown,Chiamaka Egbue,8096282117
-255,BIZ-1032,"Ferrell, Rice and Maddox",Unknown,Unknown,Leko Nnamani,8031682744
-256,BIZ-1055,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Chinwe Oluoch,8032097220
-257,BIZ-1029,"Snyder, Campos and Callahan",Unknown,"Herbert Macaulay Way, Abuja",Odion Banda,8049392920
-258,BIZ-1047,"Martin, Rose and Obrien",Unknown,Unknown,Oyin Mulenga,8057553014
-259,BIZ-1026,Unknown,Restaurant,Unknown,Tariq Biya,8066661351
-260,BIZ-1037,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Ndidi Simba,8080823176
-261,BIZ-1059,Unknown,Bakery,Unknown,Adaeze Annan,8018181586
-262,BIZ-1009,Unknown,Fast Food,Unknown,Dada Abdoulaye,8071662963
-263,BIZ-1000,"Rodriguez, Figueroa and Sanchez",Unknown,Unknown,Ijeoma Jalloh,8042868828
-264,BIZ-1005,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Abena Obasanjo,8047338124
-265,BIZ-1006,Blake and Sons,Unknown,Unknown,Bolanle Kalumba,8055667651
-266,BIZ-1003,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Zane Adom,8090801586
-267,BIZ-1061,Powell LLC,Unknown,Unknown,Aisha Onyango,8034941004
-268,BIZ-1035,Rodriguez-Graham,Unknown,Unknown,Mandela Onyango,8075228535
-269,BIZ-1052,Chapman and Sons,Cafe,Unknown,Hassan Nyoni,8083863413
-270,BIZ-1043,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Bakari Okeke,8054349361
-271,BIZ-1011,Unknown,Fast Food,"Herbert Macaulay Way, Abuja",Abdul Cissé,8019335534
-272,BIZ-1014,Unknown,Cafe,"Herbert Macaulay Way, Abuja",Gimba Moyo,8059684848
-273,BIZ-1047,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Oyin Mulenga,8057553014
-274,BIZ-1015,Unknown,Fast Food,"Ahmadu Bello Way, Abuja",Mojisola Olamide,8096977837
-275,BIZ-1009,Abbott-Munoz,Fast Food,Unknown,Dada Abdoulaye,8071662963
-276,BIZ-1011,Dudley Group,Fast Food,Unknown,Abdul Cissé,8019335534
-277,BIZ-1004,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Osman Touré,8097226012
-278,BIZ-1022,Unknown,Cafe,Unknown,Dada Kouyaté,8043101783
-279,BIZ-1047,Unknown,Bakery,Unknown,Oyin Mulenga,8057553014
-280,BIZ-1061,Powell LLC,Unknown,"Ahmadu Bello Way, Abuja",Aisha Onyango,8034941004
-281,BIZ-1054,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Ndidi Bakari,8075181648
-282,BIZ-1014,Williams and Sons,Cafe,Unknown,Gimba Moyo,8059684848
-283,BIZ-1025,Wilkerson-Day,Cafe,Unknown,Chioma Mensah,8024716857
-284,BIZ-1005,"Gardner, Robinson and Lawrence",Unknown,"Ahmadu Bello Way, Abuja",Abena Obasanjo,8047338124
-285,BIZ-1009,Abbott-Munoz,Unknown,Unknown,Dada Abdoulaye,8071662963
-286,BIZ-1044,"Arroyo, Miller and Tucker",Unknown,Unknown,Chidike Jalloh,8099788677
-287,BIZ-1016,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Adesuwa Chiume,8081691040
-288,BIZ-1049,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Ama Amin,8055540424
-289,BIZ-1046,Unknown,Cafe,Unknown,Ifunanya Bakari,8035556386
-290,BIZ-1019,Unknown,Restaurant,"Ahmadu Bello Way, Abuja",Kunle Ali,8045935572
-291,BIZ-1000,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Ijeoma Jalloh,8042868828
-292,BIZ-1024,Unknown,Cafe,"Garki Area 1, Abuja",Yemi Kouyaté,8078387461
-293,BIZ-1023,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Yemisi Kalumba,8088320463
-294,BIZ-1037,Unknown,Cafe,Unknown,Ndidi Simba,8080823176
-295,BIZ-1002,"Mcclain, Miller and Henderson",Bakery,Unknown,Asha Okeke,8013999315
-296,BIZ-1013,"Mcclure, Ward and Lee",Unknown,Unknown,Aziz Eze,8047308985
-297,BIZ-1029,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Odion Banda,8049392920
-298,BIZ-1045,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Morenike Kaboré,8086644106
-299,BIZ-1048,Unknown,Unknown,"Garki Area 1, Abuja",Ngozi Amin,8017270733
-300,BIZ-1018,Unknown,Restaurant,Unknown,Elimu Agbaje,8017507864
-301,BIZ-1043,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Bakari Okeke,8054349361
-302,BIZ-1045,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Morenike Kaboré,8086644106
-303,BIZ-1057,Unknown,Fast Food,Unknown,Bolanle Amin,8084593961
-304,BIZ-1048,Hickman Ltd,Unknown,Unknown,Ngozi Amin,8017270733
-305,BIZ-1022,Perez Inc,Unknown,Unknown,Dada Kouyaté,8043101783
-306,BIZ-1054,Unknown,Bakery,Unknown,Ndidi Bakari,8075181648
-307,BIZ-1054,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Ndidi Bakari,8075181648
-308,BIZ-1042,Rodriguez LLC,Unknown,Unknown,Yemi Osei,8019528530
-309,BIZ-1035,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Mandela Onyango,8075228535
-310,BIZ-1014,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Gimba Moyo,8059684848
-311,BIZ-1039,Unknown,Fast Food,"Garki Area 1, Abuja",Mojisola Seko,8060119651
-312,BIZ-1055,Unknown,Cafe,Unknown,Chinwe Oluoch,8032097220
-313,BIZ-1025,Wilkerson-Day,Unknown,"Ahmadu Bello Way, Abuja",Chioma Mensah,8024716857
-314,BIZ-1049,"Harris, Collins and Carney",Unknown,Unknown,Ama Amin,8055540424
-315,BIZ-1002,Unknown,Bakery,"Herbert Macaulay Way, Abuja",Asha Okeke,8013999315
-316,BIZ-1036,Unknown,Bakery,Unknown,Onyeka Kaboré,8027232410
-317,BIZ-1029,Unknown,Fast Food,"Herbert Macaulay Way, Abuja",Odion Banda,8049392920
-318,BIZ-1012,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Masamba Agbaje,8048840994
-319,BIZ-1004,Unknown,Bakery,Unknown,Osman Touré,8097226012
-320,BIZ-1043,Allen-Allen,Unknown,Unknown,Bakari Okeke,8054349361
-321,BIZ-1056,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Obinna Simba,8071070189
-322,BIZ-1000,Unknown,Bakery,Unknown,Ijeoma Jalloh,8042868828
-323,BIZ-1023,Morales-Jones,Unknown,Unknown,Yemisi Kalumba,8088320463
-324,BIZ-1026,Baker and Sons,Unknown,Unknown,Tariq Biya,8066661351
-325,BIZ-1031,Carlson-Cruz,Unknown,Unknown,Diallo Mills,8050056581
-326,BIZ-1032,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Leko Nnamani,8031682744
-327,BIZ-1003,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Zane Adom,8090801586
-328,BIZ-1021,Unknown,Restaurant,Unknown,Chiamaka Egbue,8096282117
-329,BIZ-1024,Unknown,Unknown,"Garki Area 1, Abuja",Yemi Kouyaté,8078387461
-330,BIZ-1021,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Chiamaka Egbue,8096282117
-331,BIZ-1043,Unknown,Bakery,Unknown,Bakari Okeke,8054349361
-332,BIZ-1002,"Mcclain, Miller and Henderson",Unknown,Unknown,Asha Okeke,8013999315
-333,BIZ-1020,Gray-Mayo,Unknown,Unknown,Eniola Touré,8052235350
-334,BIZ-1050,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Abdul Bello,8081979055
-335,BIZ-1007,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Lemuel Nnamani,8055176955
-336,BIZ-1004,"Guzman, Hoffman and Baldwin",Unknown,Unknown,Osman Touré,8097226012
-337,BIZ-1002,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Asha Okeke,8013999315
-338,BIZ-1028,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Musa Biya,8025374874
-339,BIZ-1010,Unknown,Unknown,"Garki Area 1, Abuja",Mandela Chiluba,8049349722
-340,BIZ-1036,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Onyeka Kaboré,8027232410
-341,BIZ-1039,Unknown,Fast Food,Unknown,Mojisola Seko,8060119651
-342,BIZ-1020,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Eniola Touré,8052235350
-343,BIZ-1041,Unknown,Restaurant,Unknown,Ofa Mwangi,8088961459
-344,BIZ-1041,George Group,Unknown,Unknown,Ofa Mwangi,8088961459
-345,BIZ-1015,Galloway-Wyatt,Unknown,Unknown,Mojisola Olamide,8096977837
-346,BIZ-1019,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Kunle Ali,8045935572
-347,BIZ-1030,Burton Ltd,Unknown,Unknown,Chimamanda Osei,8045351479
-348,BIZ-1046,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Ifunanya Bakari,8035556386
-349,BIZ-1001,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Adaeze Fofana,8083197857
-350,BIZ-1028,Unknown,Fast Food,Unknown,Musa Biya,8025374874
-351,BIZ-1022,Unknown,Unknown,"Ahmadu Bello Way, Abuja",Dada Kouyaté,8043101783
-352,BIZ-1050,Unknown,Bakery,Unknown,Abdul Bello,8081979055
-353,BIZ-1011,Dudley Group,Unknown,Unknown,Abdul Cissé,8019335534
-354,BIZ-1040,Unknown,Cafe,Unknown,Ayodele Chilufya,8043273328
-355,BIZ-1053,"Robinson, Jones and Welch",Unknown,Unknown,Temidayo Annan,8011980765
-356,BIZ-1020,Unknown,Bakery,Unknown,Eniola Touré,8052235350
-357,BIZ-1034,Unknown,Bakery,Unknown,Tumelo Otieno,8017774584
-358,BIZ-1034,"Dyer, Potter and Mack",Unknown,Unknown,Tumelo Otieno,8017774584
-359,BIZ-1057,Unknown,Unknown,"Garki Area 1, Abuja",Bolanle Amin,8084593961
-360,BIZ-1022,Unknown,Unknown,Unknown,Dada Kouyaté,8043101783
-361,BIZ-1011,Unknown,Fast Food,Unknown,Abdul Cissé,8019335534
-362,BIZ-1035,Unknown,Restaurant,Unknown,Mandela Onyango,8075228535
-363,BIZ-1025,Wilkerson-Day,Unknown,Unknown,Chioma Mensah,8024716857
-364,BIZ-1052,Unknown,Cafe,Unknown,Hassan Nyoni,8083863413
+16,BIZ-1034,"Dyer, Potter and Mack",Bakery,"Garki Area 1, Abuja",Tumelo Otieno,8017774584
+17,BIZ-1038,Harrell LLC,Cafe,"Ahmadu Bello Way, Abuja",Morenike Mbadiwe,8036998038
+18,BIZ-1057,"Johnston, Sanchez and Kennedy",Fast Food,"Garki Area 1, Abuja",Bolanle Amin,8084593961
+19,BIZ-1048,Hickman Ltd,Cafe,"Garki Area 1, Abuja",Ngozi Amin,8017270733
+20,BIZ-1009,Unknown,Fast Food,"Herbert Macaulay Way, Abuja",Dada Abdoulaye,8071662963
+21,BIZ-1010,Unknown,Bakery,"Garki Area 1, Abuja",Mandela Chiluba,8049349722
+22,BIZ-1005,"Gardner, Robinson and Lawrence",Cafe,"Ahmadu Bello Way, Abuja",Abena Obasanjo,8047338124
+23,BIZ-1029,"Snyder, Campos and Callahan",Fast Food,"Herbert Macaulay Way, Abuja",Odion Banda,8049392920
+24,BIZ-1061,Powell LLC,Restaurant,"Ahmadu Bello Way, Abuja",Aisha Onyango,8034941004
+25,BIZ-1060,"Brown, Valdez and Lucas",Fast Food,"Ahmadu Bello Way, Abuja",Ngugi Mugabe,8073993471
+26,BIZ-1045,Spence PLC,Unknown,Unknown,Morenike Kaboré,8086644106
+27,BIZ-1011,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Abdul Cissé,8019335534
+28,BIZ-1055,Jones-Young,Cafe,Unknown,Chinwe Oluoch,8032097220
+29,BIZ-1046,Anderson Group,Cafe,"Ahmadu Bello Way, Abuja",Ifunanya Bakari,8035556386
+30,BIZ-1013,"Mcclure, Ward and Lee",Bakery,"Ahmadu Bello Way, Abuja",Aziz Eze,8047308985
+31,BIZ-1042,Rodriguez LLC,Restaurant,"Herbert Macaulay Way, Abuja",Yemi Osei,8019528530
+32,BIZ-1017,"Flowers, Martin and Kelly",Restaurant,"Ahmadu Bello Way, Abuja",Jamila Eze,8046231783
+33,BIZ-1014,Williams and Sons,Cafe,"Herbert Macaulay Way, Abuja",Gimba Moyo,8059684848
+34,BIZ-1012,Arnold Ltd,Unknown,"Herbert Macaulay Way, Abuja",Masamba Agbaje,8048840994
+35,BIZ-1019,"Reid, Ferguson and Sanchez",Restaurant,"Ahmadu Bello Way, Abuja",Kunle Ali,8045935572
+36,BIZ-1053,"Robinson, Jones and Welch",Bakery,"Ahmadu Bello Way, Abuja",Temidayo Annan,8011980765
+37,BIZ-1022,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Dada Kouyaté,8043101783
+38,BIZ-1016,James Group,Unknown,"Herbert Macaulay Way, Abuja",Adesuwa Chiume,8081691040
+39,BIZ-1056,"Washington, Ryan and Cummings",Cafe,"Ahmadu Bello Way, Abuja",Obinna Simba,8071070189
+40,BIZ-1036,Smith-Bowen,Bakery,"Herbert Macaulay Way, Abuja",Onyeka Kaboré,8027232410
+41,BIZ-1008,Garcia-James,Bakery,"Ahmadu Bello Way, Abuja",Chinonso Achebe,8058181396
+42,BIZ-1030,Burton Ltd,Cafe,"Ahmadu Bello Way, Abuja",Chimamanda Osei,8045351479
+43,BIZ-1003,Davis and Sons,Bakery,"Ahmadu Bello Way, Abuja",Zane Adom,8090801586
+44,BIZ-1044,"Arroyo, Miller and Tucker",Bakery,Unknown,Chidike Jalloh,8099788677
+45,BIZ-1059,Gomez-Jenkins,Bakery,"Herbert Macaulay Way, Abuja",Adaeze Annan,8018181586
+46,BIZ-1058,Lee-Davis,Cafe,Unknown,Chukwuemeka Idowu,8039219319
+47,BIZ-1051,Walker LLC,Cafe,"Ahmadu Bello Way, Abuja",Asha Kamara,8047385696
+48,BIZ-1041,George Group,Restaurant,"Ahmadu Bello Way, Abuja",Ofa Mwangi,8088961459
+49,BIZ-1026,Baker and Sons,Restaurant,"Herbert Macaulay Way, Abuja",Tariq Biya,8066661351
+50,BIZ-1040,Ryan PLC,Cafe,Unknown,Ayodele Chilufya,8043273328
+51,BIZ-1024,"Walter, Edwards and Rios",Cafe,"Garki Area 1, Abuja",Yemi Kouyaté,8078387461
+52,BIZ-1020,Gray-Mayo,Bakery,"Ahmadu Bello Way, Abuja",Eniola Touré,8052235350
+53,BIZ-1002,"Mcclain, Miller and Henderson",Bakery,"Herbert Macaulay Way, Abuja",Asha Okeke,8013999315
+54,BIZ-1028,"Ross, Robinson and Bright",Fast Food,"Herbert Macaulay Way, Abuja",Musa Biya,8025374874
+55,BIZ-1027,"Hoffman, Baker and Richards",Unknown,"Garki Area 1, Abuja",Chinonso Museveni,8072820592
+56,BIZ-1031,Carlson-Cruz,Restaurant,"Herbert Macaulay Way, Abuja",Diallo Mills,8050056581
+57,BIZ-1043,Allen-Allen,Bakery,"Ahmadu Bello Way, Abuja",Bakari Okeke,8054349361
+58,BIZ-1000,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Ijeoma Jalloh,8042868828
+59,BIZ-1050,"Brooks, Lam and Hayes",Bakery,"Ahmadu Bello Way, Abuja",Abdul Bello,8081979055
+60,BIZ-1047,"Martin, Rose and Obrien",Bakery,"Ahmadu Bello Way, Abuja",Oyin Mulenga,8057553014
+61,BIZ-1049,"Harris, Collins and Carney",Bakery,"Ahmadu Bello Way, Abuja",Ama Amin,8055540424
