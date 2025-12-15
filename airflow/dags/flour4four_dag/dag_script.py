@@ -9,15 +9,15 @@ from airflow import DAG
 from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 
-# VENV_PYTHON = "/mnt/c/Users/Admin/Desktop/10Alytics/flour4four_etl_with_airflow/.venv/bin/python"
-# PROJECT_DIR = "/mnt/c/Users/Admin/Desktop/10Alytics/flour4four_etl_with_airflow"
+VENV_PYTHON = "/mnt/c/Users/Admin/Desktop/10Alytics/flour4four_etl_with_airflow/.venv/bin/python"
+PROJECT_DIR = "/mnt/c/Users/Admin/Desktop/10Alytics/flour4four_etl_with_airflow"
 
 
 default_args = {'owner': 'airflow',
                 'depends_on_past' : False,
                 'start_date' : datetime(2025, 11, 26),
                 'email' : 'yettyexcel36@gmail.com',
-                'email_on_failure': True,
+                'email_on_faliure': True,
                 'email_on_retry' : True,
                 'retries' : 2,
                 'retries_delay' : timedelta(minutes = 1)
@@ -33,36 +33,19 @@ with DAG(
     tags=["etl","flour4four"],
 ) as dag:
 
-    # extract = BashOperator(
-    #     task_id="extract",
-    #     bash_command=f"{VENV_PYTHON} {PROJECT_DIR}/export.py",
-    # )
-
-    # transform = BashOperator(
-    #     task_id="transform",
-    #     bash_command=f"{VENV_PYTHON} {PROJECT_DIR}/transform.py",
-    # )
-
-    # load = BashOperator(
-    #     task_id="load",
-    #     bash_command=f"{VENV_PYTHON} {PROJECT_DIR}/load.py",
-    # )
-
-    # extract >> transform >> load
-
     extract = BashOperator(
         task_id="extract",
-        bash_command="python export.py",
+        bash_command=f"{VENV_PYTHON} {PROJECT_DIR}/export.py",
     )
 
     transform = BashOperator(
         task_id="transform",
-        bash_command="python transform.py",
+        bash_command=f"{VENV_PYTHON} {PROJECT_DIR}/transform.py",
     )
 
     load = BashOperator(
         task_id="load",
-        bash_command="python load.py",
+        bash_command=f"{VENV_PYTHON} {PROJECT_DIR}/load.py",
     )
 
     extract >> transform >> load

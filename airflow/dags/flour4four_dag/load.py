@@ -7,7 +7,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 RAW_DATA_DIR = PROJECT_ROOT / "raw_dataset"
 CLEANED_DATA_DIR = PROJECT_ROOT / "cleaned_dataset"
 
-dim_business = pd.read_csv(CLEANED_DATA_DIR/'dim_business.csv', index_col=False)
+dim_business = pd.read_csv(CLEANED_DATA_DIR/'dim_business.csv')
 print(dim_business.info())
 dim_rider = pd.read_csv(CLEANED_DATA_DIR/'dim_rider.csv')
 dim_flour_type = pd.read_csv(CLEANED_DATA_DIR/'dim_flour_type.csv')
@@ -29,7 +29,7 @@ def get_connection():
                                   host = host,
                                   port = port)
     return connection
-conn = get_connection()
+
 
 
 def create_tables():
@@ -39,7 +39,7 @@ def create_tables():
 
                     DROP TABLE IF EXISTS flour.dim_business CASCADE;
                     DROP TABLE IF  EXISTS flour.dim_rider CASCADE;
-                    DROP TABLE IF  EXISTS flour.dim_flour_type CASCADE;
+                    DROP TABLE IF  EXISTS flour.flour_type CASCADE;
                     DROP TABLE IF  EXISTS flour.orders_fact CASCADE;
 
 
@@ -57,8 +57,7 @@ def create_tables():
                     CREATE TABLE IF  NOT EXISTS flour.dim_rider (
                     rider_id  INT PRIMARY KEY,
                     rider_name VARCHAR NOT NULL, 
-                    rider_phone VARCHAR NOT NULL
-                    );
+                    rider_phone VARCHAR NOT NULL);
                     
 
                     CREATE TABLE IF NOT EXISTS flour.dim_flour_type (
@@ -89,7 +88,6 @@ def create_tables():
     print('Tables created sucessfully')
 
 create_tables()
-
 
 engine = create_engine(f"postgresql://{user}:{password}@{host}:{port}/{db_name}")
 
